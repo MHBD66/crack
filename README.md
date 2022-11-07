@@ -18,8 +18,7 @@
 
  pip install rich
 
- git clone
-https://github.com/MHBD66/crack
+ git clone https://github.com/MHBD66/crack
 
  cd crack
 
